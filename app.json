@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/SANDY-FM/CALOPY-SANDY",
-    "repository": "https://github.com/SANDY-FM/CALOPY-SANDY",
+    "website": "https://github.com/iwhiwh/TheSamdmanBot",
+    "repository": "https://github.com/iwhiwh/TheSamdmanBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
