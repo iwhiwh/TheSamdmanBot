@@ -11,7 +11,7 @@ class script(object):
     ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ ʟᴏᴠᴇ❤: <a href=https://t.me/The_Happy_Hour_Hindi>❤</a>
 ✯ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/The_Happy_Hour_Hindi>The Happy Hour</a>
-✯ ᴍʏ ʜᴜsʙᴀɴᴅ: <a href=https://t.me/Mister_Ash>Ash Ketchum</a>
+✯ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴀʀ: <a href=https://t.me/Mister_Ash>Ash Ketchum</a>
 ✯ ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ
 ✯ ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 𝟹
 ✯ ᴅᴀᴛᴀʙᴀsᴇ: ᴍᴏɴɢᴏᴅʙ
