@@ -1,10 +1,10 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/SANDY-FM/CALOPY-SANDY.git /CALOPY-SANDY
+  git clone https://github.com/iwhiwh/TheSamdmanBot.git /TheSamdmanBot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /CALOPY-SANDY
+  git clone $UPSTREAM_REPO /TheSamdmanBot
 fi
 cd /Elsa
 pip3 install -U -r requirements.txt
