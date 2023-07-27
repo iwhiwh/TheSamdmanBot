@@ -21,17 +21,17 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
-            "value": "6111982752:AAH3VNBhcPvleKamxgLCGmwpCTEOiYxQw2M"
+            "value": "6111982752:AAH3VNBhcPvleKamxgLCGmwpCTEOiYxQw2M",
             "required": true
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "24579842"
+            "value": "24579842",
             "required": true
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "ec6105bf1a02c98f837300546dc341d1"
+            "value": "ec6105bf1a02c98f837300546dc341d1",
             "required": true
         },
         "CHANNELS": {
@@ -40,7 +40,7 @@
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
-            "value": "1991522624"
+            "value": "1991522624",
             "required": true
         },
         "PICS": {
@@ -49,7 +49,7 @@
         },
         "LOG_CHANNEL": {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
-            "value": "-1001912840788"
+            "value": "-1001912840788",
             "required": true
         },
         "AUTH_USERS": {
@@ -62,7 +62,7 @@
         },
         "DATABASE_URI": {
             "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
-            "value": "mongodb+srv://happythehour:skumar(2006)@cluster0.wttyshn.mongodb.net/?retryWrites=true&w=majority"
+            "value": "mongodb+srv://happythehour:skumar(2006)@cluster0.wttyshn.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "DATABASE_NAME": {
@@ -76,12 +76,12 @@
         },
         "FILE_CHANNEL": {
             "description": "File REDIRECT TO , give Channel id for redirect file eg:-100xxxxxxx.",
-            "value": "-1001867538832"
+            "value": "-1001867538832",
             "required": true
         },
         "DELETE_CHANNELS": {
              "description": "Delete Multiple files from db, channel id -100xxxxxxxx.",
-             "value": "-1001942168587"
+             "value": "-1001942168587",
              "required": true
         }
     },
