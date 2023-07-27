@@ -4,7 +4,7 @@ then
   git clone https://github.com/iwhiwh/TheSamdmanBot.git /TheSamdmanBot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /TheSamdmanBot
+  git clone $UPSTREAM_REPO /
 fi
 cd /Elsa
 pip3 install -U -r requirements.txt
